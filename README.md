@@ -30,6 +30,7 @@ During the Dicision Tree Classifier, I performed the following steps:
 ## Conclusion
 
 In this project, you effectively leveraged a Decision Tree classifier to analyze and predict customer purchasing behavior. The use of the Bank dataset provided a rich set of features for your model. By successfully implementing this classifier, you can gain insights into which factors influence purchasing decisions, potentially guiding marketing strategies and improving customer engagement.
+<br>
 Overall, this project showcases your skills in applying machine learning techniques to real-world datasets, providing practical insights that can benefit business decisions.
 
 Thank you for reviewing my submission!
