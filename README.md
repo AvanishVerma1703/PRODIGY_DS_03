@@ -1,4 +1,4 @@
-# Prodigy InfoTech Data Science Internship Task 2:
+# Prodigy InfoTech Data Science Internship Task 3:
 <br>
 <img src="https://github.com/AvanishVerma1703/PRODIGY_DS_03/blob/main/03_image.png"   >
 
